@@ -2,3 +2,4 @@
 model_ssh.pem
 *.ipynb
 *.pyc
+.DS_Store
