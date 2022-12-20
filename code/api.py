@@ -6,7 +6,6 @@ from typing import Optional
 
 
 
-
 class PredictionItem(BaseModel):
     PassengerId : Optional[int]#4,
     Pclass : Optional[int]#1,
